@@ -1,9 +1,10 @@
-# amerge.py, Automatic Merge of WeBWorK scores into Canvas gradebooks.  
-Requires: Python 3, pandas (version 0.25.3 known to work, likely to work with others)  
+# amerge.py  
+### Automatic Merge of WeBWorK scores into Canvas gradebooks.  
+*Requires*: Python 3, pandas (version 0.25.3 known to work, likely to work with others)  
 
-Original author: Eric Canton, while teaching Math 412 Winter 2020 at the University of Michigan  
+*Original author*: Eric Canton, while teaching Math 412 Winter 2020 at the University of Michigan  
 Licensed under GNU GPL v3, free (as in gratis, and freedom) to distribute.  
-Please see <https://www.gnu.org/licenses/gpl-3.0.html> for full info.   
+Please see <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU GPL</a> for full info.   
 Written from scratch. Any similarity to other software (especially copyrighted) is indicental
 to the functionality, which is elementary.  
 
